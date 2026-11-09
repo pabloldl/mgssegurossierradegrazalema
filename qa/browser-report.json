@@ -1,0 +1,1119 @@
+{
+  "report": [
+    {
+      "viewport": 375,
+      "width": 375,
+      "scrollWidth": 375,
+      "height": 3226,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/everyday-space-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/el-bosque-1280.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficina",
+          "ok": true
+        },
+        {
+          "case": "navigation-localidad",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 79.765625
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficina",
+          "ok": true
+        },
+        {
+          "href": "#localidad",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficina",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#localidad",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.mgs.es/wps/dondeencontrarnos",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://commons.wikimedia.org/wiki/File:ElBosqueDesdeCarretera.jpg",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        }
+      ],
+      "targets": [
+        {
+          "text": "La oficina",
+          "height": 44
+        },
+        {
+          "text": "El Bosque",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 45
+        },
+        {
+          "text": "Llamar al 665 15 82 31",
+          "height": 48
+        },
+        {
+          "text": "Consultar ubicación",
+          "height": 48
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 62
+        },
+        {
+          "text": "Llamar a la oficina",
+          "height": 51
+        },
+        {
+          "text": "Abrir en Google Maps",
+          "height": 44
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 3234,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/everyday-space-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/el-bosque-1280.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficina",
+          "ok": true
+        },
+        {
+          "case": "navigation-localidad",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 78.046875
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficina",
+          "ok": true
+        },
+        {
+          "href": "#localidad",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficina",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#localidad",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.mgs.es/wps/dondeencontrarnos",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://commons.wikimedia.org/wiki/File:ElBosqueDesdeCarretera.jpg",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        }
+      ],
+      "targets": [
+        {
+          "text": "La oficina",
+          "height": 44
+        },
+        {
+          "text": "El Bosque",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 45
+        },
+        {
+          "text": "Llamar al 665 15 82 31",
+          "height": 48
+        },
+        {
+          "text": "Consultar ubicación",
+          "height": 48
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 62
+        },
+        {
+          "text": "Llamar a la oficina",
+          "height": 51
+        },
+        {
+          "text": "Abrir en Google Maps",
+          "height": 44
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 768,
+      "width": 768,
+      "scrollWidth": 753,
+      "height": 2846,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/everyday-space-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/el-bosque-1280.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficina",
+          "ok": true
+        },
+        {
+          "case": "navigation-localidad",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 268
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficina",
+          "ok": true
+        },
+        {
+          "href": "#localidad",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficina",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#localidad",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.mgs.es/wps/dondeencontrarnos",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://commons.wikimedia.org/wiki/File:ElBosqueDesdeCarretera.jpg",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        }
+      ],
+      "targets": [
+        {
+          "text": "La oficina",
+          "height": 44
+        },
+        {
+          "text": "El Bosque",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 45
+        },
+        {
+          "text": "Llamar al 665 15 82 31",
+          "height": 48
+        },
+        {
+          "text": "Consultar ubicación",
+          "height": 48
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 77
+        },
+        {
+          "text": "Llamar a la oficina",
+          "height": 53
+        },
+        {
+          "text": "Abrir en Google Maps",
+          "height": 44
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 1440,
+      "width": 1440,
+      "scrollWidth": 1425,
+      "height": 3162,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/everyday-space-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/el-bosque-1280.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficina",
+          "ok": true
+        },
+        {
+          "case": "navigation-localidad",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 156.546875
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficina",
+          "ok": true
+        },
+        {
+          "href": "#localidad",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficina",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#localidad",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.mgs.es/wps/dondeencontrarnos",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://commons.wikimedia.org/wiki/File:ElBosqueDesdeCarretera.jpg",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        }
+      ],
+      "targets": [
+        {
+          "text": "La oficina",
+          "height": 44
+        },
+        {
+          "text": "El Bosque",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 45
+        },
+        {
+          "text": "Llamar al 665 15 82 31",
+          "height": 48
+        },
+        {
+          "text": "Consultar ubicación",
+          "height": 48
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 86.6875
+        },
+        {
+          "text": "Llamar a la oficina",
+          "height": 53
+        },
+        {
+          "text": "Abrir en Google Maps",
+          "height": 44
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": 1920,
+      "width": 1920,
+      "scrollWidth": 1905,
+      "height": 3347,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "images": [
+        {
+          "src": "assets/images/everyday-space-1536.jpg",
+          "loaded": true
+        },
+        {
+          "src": "assets/images/el-bosque-1280.jpg",
+          "loaded": true
+        }
+      ],
+      "font": true,
+      "revealHidden": 0,
+      "overflow": [],
+      "interactions": [
+        {
+          "case": "keyboard-tab",
+          "ok": true
+        },
+        {
+          "case": "navigation-oficina",
+          "ok": true
+        },
+        {
+          "case": "navigation-localidad",
+          "ok": true
+        },
+        {
+          "case": "contact-navigation",
+          "ok": true,
+          "top": 116.734375
+        }
+      ],
+      "anchors": [
+        {
+          "href": "#contenido",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        },
+        {
+          "href": "#oficina",
+          "ok": true
+        },
+        {
+          "href": "#localidad",
+          "ok": true
+        },
+        {
+          "href": "#contacto",
+          "ok": true
+        },
+        {
+          "href": "#inicio",
+          "ok": true
+        }
+      ],
+      "links": [
+        {
+          "href": "#contenido",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#oficina",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#localidad",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#contacto",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.mgs.es/wps/dondeencontrarnos",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://commons.wikimedia.org/wiki/File:ElBosqueDesdeCarretera.jpg",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.google.com/maps/search/?api=1&query=Calle+Jerez+41+11670+El+Bosque+Cadiz",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "href": "tel:+34665158231",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "#inicio",
+          "external": false,
+          "target": "",
+          "rel": ""
+        },
+        {
+          "href": "https://www.mgs.es/",
+          "external": true,
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        }
+      ],
+      "targets": [
+        {
+          "text": "La oficina",
+          "height": 44
+        },
+        {
+          "text": "El Bosque",
+          "height": 44
+        },
+        {
+          "text": "Contacto",
+          "height": 44
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 45
+        },
+        {
+          "text": "Llamar al 665 15 82 31",
+          "height": 48
+        },
+        {
+          "text": "Consultar ubicación",
+          "height": 48
+        },
+        {
+          "text": "665 15 82 31",
+          "height": 86.796875
+        },
+        {
+          "text": "Llamar a la oficina",
+          "height": 53
+        },
+        {
+          "text": "Abrir en Google Maps",
+          "height": 44
+        },
+        {
+          "text": "Volver al inicio",
+          "height": 44
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "reducedMotion": {
+    "scroll": "auto",
+    "animations": 0,
+    "revealVisible": true
+  },
+  "noJs": {
+    "h1": 1,
+    "revealVisible": true,
+    "anchors": true
+  }
+}

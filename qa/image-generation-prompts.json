@@ -1,0 +1,10 @@
+{
+  "mode": "builtin image_gen",
+  "images": [
+    {
+      "asset": "assets/images/everyday-space-1536.jpg",
+      "original": "assets/images/originals/everyday-space.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: large editorial photograph for a local insurance office presentation, concept protecting what matters through calm everyday life. Primary request: a simple contemporary residential entrance hall in natural light, warm white plaster wall, an open pale oak door leading to a softly sunlit everyday living space, a narrow dark blue night painted door frame accent, a modest oak bench with a neatly folded natural linen throw and one ceramic bowl, realistic pale stone floor and precise architectural geometry. No people, no luxury styling, no cars, no paperwork, no visible insurance logos, no shields, no handshakes, no family advertising. Wide landscape 3:2, strong asymmetric architectural composition, door positioned near center, generous light wall space, eye-level professional architectural editorial photography, tactile realistic materials and naturally coherent shadows, warm white #F7F5F1, navy #172C40 and stone gray #D9D9D5. No text, no watermark, no logos. This is explicitly labeled generated illustrative imagery for MGS Seguros Sierra de Grazalema, not an actual office, customer home or documented insurance situation, and does not imply an insurance coverage. Sophisticated but approachable local-office tone, not a luxury property advertisement and not CGI."
+    }
+  ]
+}
